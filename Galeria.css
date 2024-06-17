@@ -1,0 +1,87 @@
+@font-face {
+    font-family: Tommy;
+    src: url(tommy\ font.ttf);   
+    }
+@font-face {
+    font-family: Nexa;
+    src: url(Nexa-Heavy.ttf);
+
+}
+
+body{
+    background-color: #D9D9D9;
+
+}
+
+
+h1{
+    margin-top: 4%;
+    margin-bottom: 0%;
+    text-align: center;
+    font-family: Tommy;
+    font-size: 6cap;
+    color: #A63856;
+
+}
+
+h4{
+    margin-top: 0%;
+    margin-bottom: 6%;
+    text-align: center;
+    font-family: Nexa;
+    font-size: 1,5cap;
+    color: #0D0D0D;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    box-shadow: 15px #84878C;
+    margin-bottom: 20px;
+    border-radius: 2%;
+
+    
+
+}
+
+.gallery{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;   
+    width: fit-content;
+     
+}
+
+.foto img{
+    display: block;
+    
+}
+
+.detalhes{
+    display: none;
+    
+}
+
+.galeria .foto:target{
+    position: fixed;
+    width: 50%;
+    top: 15px;
+    left: 25%;
+    margin-bottom: 5px;
+    border: solid 1px #6DB4F2;
+    box-shadow: 0 0 25px 10px #0D0D0D;
+    background-color: #D9D9D9;
+    border-radius: 5px;
+}
+
+.foto:target .detalhes{
+    display: block;
+    
+}
+
+.fechou{
+    color: #A63856;
+}
