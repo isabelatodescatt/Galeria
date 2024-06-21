@@ -9,4 +9,4 @@ O desafio estabelecido na nona e décima aula de lógica programacional consiste
 O objetivo é que nós, alunos, consolidem nossos conhecimentos sobre estruturação semântica do HTML, aplicação de estilos CSS e uso de novas ferramentas, como o Flexbox. Esse desafio avaliativo permitire que mostremos nosso domínio prático.
 
 
-## ☆ Objetivo ☆
+## ᨐฅ
