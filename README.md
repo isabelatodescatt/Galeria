@@ -1,6 +1,6 @@
 # ★ MIAULERIA ★
 
-Bem vindo(a) a minha Miauleria! Uma galeria de fotos com apenas gatinhos! ฅ^•⩊•^ฅ
+Bem vindo(a) a minha Miauleria! Uma galeria de fotos com apenas gatinhos! ฅ≽^•⩊•^≼ฅ
 
 
 ## ☆ Objetivo ☆
